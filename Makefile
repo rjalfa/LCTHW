@@ -28,3 +28,4 @@ clean:
 	rm -f db.dat
 	rm -f ex22.o
 	rm -f ex22_main
+	rm -f ex23
